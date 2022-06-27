@@ -1,5 +1,6 @@
 # Ben Smith
-Analytically-minded and detail-driven, I use data to work on interesting problems that matter. 
+
+-> [Resume](https://drive.google.com/file/d/1sQmNiIEMXJ4_4Yt3TInZXO9P8hXtfsEW/view)
 
 -> [LinkedIn](https://www.linkedin.com/in/bensmith07/) <-
 
